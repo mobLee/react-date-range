@@ -1,5 +1,5 @@
 {
-  "name": "@gfpacheco/react-date-range",
+  "name": "@moblee/react-date-range",
   "version": "0.9.5",
   "description": "A React component for choosing dates and date ranges.",
   "main": "lib/index.js",
