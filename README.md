@@ -1,3 +1,5 @@
+⚠️ Readme em inglês porquê é um fork de https://github.com/Adphorus/react-date-range
+
 # react-date-range
 ![](https://badge.fury.io/js/react-date-range.svg)
 ![](https://david-dm.org/Adphorus/react-date-range.svg)
